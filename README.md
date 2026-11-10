@@ -1,31 +1,26 @@
-# 👋 Hi, I’m Azra 
+# Hi, I'm Azra 👋
 
-## Senior WordPress Developer | Custom Plugins & Systems | MongoDB, Express, React, Node
-Senior WordPress Developer with 5+ years of experience building custom plugins, tailored solutions, and complex systems. BSc in IT and passionate about clean, scalable development.
-I specialize in custom WordPress architecture, advanced plugin engineering, and solving unique project requirements.
-Currently expanding into MERN to build full-stack web + mobile applications.
+**Full-Stack Developer** · TypeScript · Laravel · Next.js · SaaS & ERP · AI agents
+📍 Sarajevo, Bosnia and Herzegovina · 🎓 BSc in IT (IBU)
 
-🌍 Based in Bosnia & Herzegovina  
-🎓 BSc in IT
+I build business software end to end: multi-tenant SaaS, ERP and accounting features, APIs and the admin tools around them. I have 5+ years of professional experience, starting with WordPress/WooCommerce and moving to TypeScript and Laravel products. I work AI-first: coding agents, documented architecture decisions and CI quality gates are part of how I ship every day.
 
-## 🛠️ Skills
-- WordPress (Custom Plugins, Themes, REST APIs)
-- PHP | MySQL | JavaScript
-- Modern toolchains & automation
-- MERN
+## What I'm working on
 
-## 📌 Featured Projects
+- **SERP, a multi-tenant cloud ERP.** At Companions Corp I worked on a TypeScript monorepo (Next.js, tRPC, PostgreSQL) on the features where money and business rules meet: POS and fiscal VAT, invoicing and accounting journals, pricing rules and tenant security.
+- **MojaFlota, a fleet & business travel SaaS.** It's my family's own product for companies in Bosnia and Herzegovina, built on Laravel. Alongside it I built a separate licensing and subscription service with cryptographically signed licences, billing and audited admin access.
+- **Invoice Parser.** An AI document processing app: extraction with an LLM, rule-based validation and a human review workflow. [Repo](https://github.com/azra212/Invoice-Parser) · [Live demo](https://invoice-parser-9xqd.onrender.com/)
 
-### 🛠️ Invoice Parser
-A MERN stack web application enabling upload of invoices and purchase orders, and extracting its data in an editable format with deterministic CSV and TXT parsers, and Gemini AI for PDF/Images.
-### 📍 Where Did I Put That?
-A minimalist React Native + Expo mobile app for tracking where you store household items. (Expo SDK 54 · React Native 0.81 · SQLite (local DB) · NativeWind (Tailwind CSS))
+## Tech
 
-### 🧠 AIReel
-Share AI video content with modular designs.
-  
-### 📍 pokedex (React Native)
-Mobile Pokédex app built with React Native + Expo.
+**Languages:** TypeScript, JavaScript, PHP, SQL
+**Backend:** Laravel, Node.js/Express, tRPC, REST APIs, queues
+**Frontend:** React, Next.js, Tailwind CSS, Alpine.js
+**Mobile:** React Native, Expo
+**Data:** PostgreSQL, MySQL, MongoDB, Redis
+**Delivery:** GitHub Actions, Docker, Turborepo, YouTrack, AI coding agents (Cursor)
+**Also:** WordPress/WooCommerce (custom plugins, headless, REST)
 
-## 📫 Contact
-📧 azraa.kadric@gmail.com
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/azrakadric/) · azraa.kadric@gmail.com
